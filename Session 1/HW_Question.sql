@@ -1,3 +1,5 @@
+--G1_23BCS10799_TANMAY_SESSION_1
+
 CREATE TABLE departments (
     department_id SERIAL PRIMARY KEY,
     department_name TEXT NOT NULL
